@@ -1,0 +1,77 @@
+@font-face {
+    font-family:Radikal;
+    font-weight:700;
+    font-style:normal;
+    src:url(../fonts/nootype_-_radikal-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family:Radikal;
+    font-weight:800;
+    font-style:normal;
+    src:url(../fonts/nootype_-_radikal_bold-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal_bold-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family:Radikal;
+    font-weight:800;
+    font-style:italic;
+    src:url(../fonts/nootype_-_radikal_bold_italic-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal_bold_italic-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family:Radikal;
+    font-weight:500;
+    font-style:normal;
+    src:url(../fonts/nootype_-_radikal_medium-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal_medium-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family:Radikal;
+    font-weight:500;
+    font-style:italic;
+    src:url(../fonts/nootype_-_radikal_medium_italic-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal_medium_italic-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family:Radikal;
+    font-weight:300;
+    font-style:italic;
+    src:url(../fonts/nootype_-_radikal_thin_italic-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal_thin_italic-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family:Radikal;
+    font-weight:300;
+    font-style:normal;
+    src:url(../fonts/nootype_-_radikal_thin-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal_thin-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family:Radikal;
+    font-weight:400;
+    font-style:italic;
+    src:url(../fonts/nootype_-_radikal_italic-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal_italic-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family:Radikal;
+    font-weight:100;
+    font-style:italic;src:url(../fonts/nootype_-_radikal_light_italic-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal_light_italic-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family:Radikal;
+    font-weight:100;
+    font-style:normal;src:url(../fonts/nootype_-_radikal_light-webfont.woff2) format('woff2'),
+        url(../fonts/nootype_-_radikal_light-webfont.woff) format('woff');
+}
